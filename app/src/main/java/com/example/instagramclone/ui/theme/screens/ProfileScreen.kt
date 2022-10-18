@@ -46,7 +46,7 @@ fun ProfileScreenUI(
                     .height(50.dp),
                 colorFilter = ColorFilter.tint(color = MaterialTheme.colors.onBackground)
             )
-
+            Spacer(modifier = modifier.weight(1f))
             Row(modifier = modifier.padding(10.dp)) {
                 IconButton(onClick = homeClicked) {
                     Icon(

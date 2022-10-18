@@ -48,7 +48,7 @@ fun HomeScreenUI(
                     .height(50.dp),
                 colorFilter = ColorFilter.tint(color = MaterialTheme.colors.onBackground)
             )
-
+            Spacer(modifier = modifier.weight(1f))
             Row(modifier = modifier.padding(10.dp)) {
                 IconButton(onClick = homeClicked) {
                     Icon(imageVector = Icons.Filled.Home, contentDescription = null, tint = MaterialTheme.colors.onBackground)
