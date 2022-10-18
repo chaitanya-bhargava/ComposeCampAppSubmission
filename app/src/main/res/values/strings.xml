@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="user1">_chaitanya.03</string>
+    <string name="user2">gdsc_nsut</string>
+    <string name="user3">moh.its.maaya</string>
+    <string name="user4">tyler_p</string>
+    <string name="user5">london2022</string>
+    <string name="user6">realduncan</string>
+    <string name="user7">paulatreides</string>
+    <string name="user8">harry_potter</string>
+    <string name="user9">alfred</string>
+    <string name="user10">batman</string>
+    <string name="msg1">Thanks!</string>
+    <string name="msg2">See you tomorrow!</string>
+    <string name="msg3">Good night</string>
+    <string name="msg4">"Call me back "</string>
+    <string name="msg5">Bye bye</string>
+    <string name="msg6">Hello, how are you doing?</string>
+    <string name="msg7">Replied to your story…</string>
+    <string name="msg8">Sent a photo…</string>
+    <string name="msg9">Talk to you later</string>
+    <string name="msg10">Sent a post…</string>
+    <string name="story1">Me😎</string>
+    <string name="story2">Friends❤</string>
+    <string name="story3">Work🏢</string>
+    <string name="story4">Shimla🗻</string>
+    <string name="story5">Goa🏖</string>
+    <string name="story6">Art🎨</string>
+    <string name="story7">Aesthetic😍</string>
+    <string name="story8">Vacation✈</string>
+    <string name="story9">Nature🏞</string>
+    <string name="story10">Concert🎶</string>
+</resources>
