@@ -25,6 +25,7 @@ There is provision of a show password button as well
 <img src="https://raw.githubusercontent.com/chaitanya-bhargava/ComposeCampAppSubmission/master/sample%20photos/homescreen.jpeg" height="400">
 
 On logging in the app opens up into a home screen with a carousel of posts and stories, also with a NavBar on the top with icon buttons for the Home, Messages and Profile Screen including a Logout button.
+Like Button is functional as well.
 
 ## Messages Screen
 <img src="https://raw.githubusercontent.com/chaitanya-bhargava/ComposeCampAppSubmission/master/sample%20photos/messagesscreen.jpeg" height="400">
@@ -41,7 +42,7 @@ Also it contains the story highlights and posts made by the user.
 1. Use of Kotlin Functions taught in Session 1
 2. Use of Oops, Buttons and States taught in Session 2
 3. Use of Lists taught in Session 3 to implement the carousel of posts and stories in the Home Screen and Profile Screen as well as the messages in the Messages Screen
-4. Use of Material Design taught in Session 3 to implement background and surface colours for the theme
+4. Use of Material Design taught in Session 3 to implement background and surface colours for the theme(Light Mode and Dark Mode)
 5. Use of Architecure Principle - Separation of Concerns taught in Session 4 in Login Screen using View Model
 6. Use of Navigation taught in Session 4 using NavController to travel between the 4 screens
 
